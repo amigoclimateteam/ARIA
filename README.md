@@ -1,4 +1,8 @@
-# ARIA
+
+<img width="278" alt="ARIA" src="https://github.com/amigoclimateteam/ARIA/assets/52488019/8d4c955d-6229-4beb-bd92-9013bcebb9f0">
+
+
+<br>
 
 Repository for the assets of ARIA project in the __
 
