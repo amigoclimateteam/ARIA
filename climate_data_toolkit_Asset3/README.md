@@ -10,10 +10,6 @@ To use the notebook, please register at CDS portal https://cds.climate.copernicu
 
 Ensure you have the necessary libraries installed and follow the instructions within the notebook.
 
-## Contributing
-
-Contributions are welcome. Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss the proposed alteration.
-
 ## License
 
 Creative Commons Attribution 4.0 International License
