@@ -1,6 +1,8 @@
-# A Toolkit for Climate and Meteorological Data
+# A Toolkit for Climate and Meteorological Data Retrieving
 
-This repository contains a Jupyter notebook that serves as a toolkit for retrieving and preprocessing climate and meteorological data. The notebook offers a set of functions and procedures that facilitate the handling of environmental data, crucial for research and analysis in climate science.
+This repository holds a Jupyter notebook intended as a practical tool for fetching and preprocessing data related to climate and weather conditions, useful in climate science studies. The notebook has a download module that uses API calls to pull data from primary sources, requiring users to input their preferences in a dictionary-style parameter set. 
+
+The notebook also details a method for saving the collected data to a disk, highlighting a format suitable for the next stages of analysis. The notebook includes also a set of features for basic data manipulation. Users are instructed on exploiting data by choosing particular time frames and spatial regions and resampling data in new temporal timeframes.
 
 ## Usage
 
