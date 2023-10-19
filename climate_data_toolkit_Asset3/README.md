@@ -14,4 +14,4 @@ Contributions are welcome. Feel free to fork the repository and submit pull requ
 
 ## License
 
-Include details about the license here.
+Creative Commons Attribution 4.0 International License
