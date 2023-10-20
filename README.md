@@ -4,15 +4,17 @@
 
 <br>
 
-Repository for the assets of ARIA project in the 2nd TTP of I-NERGY https://i-nergy.eu/. 
+Repository for the assets of ARIA project in the 2nd Open Call of I-NERGY https://i-nergy.eu/. 
 
 "Assets" refers to corresponding entries in the AIOD Catalog https://www.ai4europe.eu/research/ai-catalog
 
 - `ARIA_data_2017_2020_Asset2` The set of sample data used for the training, validation, and testing of the ML model developed within ARIA project. It contains bla bla bla.
 - `climate_data_toolkit_Asset3` contains a Jupyter Notebook with a set ot functions to setup and download climate reanalysis data of interest.
-Moreover, it includes a basic set of functions to preprocess such data.
+Moreover, it includes a basic set of functions to preprocess such data. 
 - `satellite_data_toolkit_Asset4` contains a Jupyter Notebook with a set ot functions to setup and download satellite terrain data.
 Moreover, it includes a basic set of functions to preprocess such data.
+
+Execute both Jupyter Notebooks using the 'aria_requirements.txt' for environment setup and to install dependencies.
 
 ARIA - enhAnced shoRt-term wInd forecAsts is an AI-powered API service that provides improved short-term forecasts of wind speed and wind energy generation to operators along the wind energy value chain within the Italian energy market. ARIA provides forecasts of wind speed and of the related energy produced at each wind farm location for the next day, hour by hour. 
 
