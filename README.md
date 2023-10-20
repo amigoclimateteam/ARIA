@@ -8,7 +8,7 @@ Repository for the assets of ARIA project in the 2nd Open Call of I-NERGY https:
 
 "Assets" refers to corresponding entries in the AIOD Catalog https://www.ai4europe.eu/research/ai-catalog
 
-- `ARIA_data_2017_2020_Asset2` The set of sample data used for the training, validation, and testing of the ML model developed within ARIA project. It contains bla bla bla.
+- `ARIA_data_Asset2` The set of sample data used for the training, validation, and testing of the ML model developed within ARIA project. It contains bla bla bla.
 - `climate_data_toolkit_Asset3` contains a Jupyter Notebook with a set ot functions to setup and download climate reanalysis data of interest.
 Moreover, it includes a basic set of functions to preprocess such data. 
 - `satellite_data_toolkit_Asset4` contains a Jupyter Notebook with a set ot functions to setup and download satellite terrain data.
