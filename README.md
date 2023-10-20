@@ -4,7 +4,7 @@
 
 <br>
 
-Repository for the assets of ARIA project in the 2nd Open Call of I-NERGY https://i-nergy.eu/. 
+Repository for the assets of ARIA project in the 2nd Open Call of I-NERGY https://i-nergy.eu/2nd-open-calls-winning-projects. 
 
 "Assets" refers to corresponding entries in the AIOD Catalog https://www.ai4europe.eu/research/ai-catalog
 
