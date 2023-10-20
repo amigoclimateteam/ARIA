@@ -3,7 +3,7 @@ Datasets used to train the ML model for estimating wind speed at hourly basis.
 
 ### Content
 
-`feature_data.csv` file is a csv containing wind speed data from a station located at Max-Plack Institute https://www.bgc-jena.mpg.de/wetter/Weatherstation.pdf. Temporal range is Jan 2020 - Dec 2021 at hourly basis. It has been used as target feature for wind speed estimation. 
+`target_data.csv` file is a csv containing wind speed data from a station located at Max-Plack Institute https://www.bgc-jena.mpg.de/wetter/Weatherstation.pdf. Temporal range is Jan 2020 - Dec 2021 at hourly basis. It has been used as target feature for wind speed estimation. 
 
 `feature_data.csv` is a csv file containing time-series data from the ERA5Land reanalysis, sourced from the CDS repository. It's instrumental for our model's training phase. Temporal range is Jan 2010 - Aug 2023 at hourly basis.
 
